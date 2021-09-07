@@ -1,0 +1,19 @@
+{
+  "name": "simple-server-api-declaration",
+  "version": "0.1.0",
+  "description": "Highlights classes and methods specific for server scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://gitlab.com/nosilence/simple-server-api-declaration.git"
+  },
+  "keywords": [
+    "simpleone",
+    "api"
+  ],
+  "author": "NoSilence",
+  "license": "ISC"
+}
